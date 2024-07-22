@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/surbhi-portfolio/static/css/main.d8465922.css",
+    "main.js": "/surbhi-portfolio/static/js/main.87f795f3.js",
+    "static/media/mock3.png": "/surbhi-portfolio/static/media/mock3.fd44128dd0dddc2ee18d.png",
+    "static/media/mock1.png": "/surbhi-portfolio/static/media/mock1.fd10bd377512158cfccb.png",
+    "static/media/Branding_04.jpg": "/surbhi-portfolio/static/media/Branding_04.ba61ece27d19dcd0174a.jpg",
+    "static/media/Branding_03.jpg": "/surbhi-portfolio/static/media/Branding_03.b38347896b0a2cb31555.jpg",
+    "static/media/Branding_02.jpg": "/surbhi-portfolio/static/media/Branding_02.f3cd8b2b7f4b390de883.jpg",
+    "static/media/Branding_01.jpg": "/surbhi-portfolio/static/media/Branding_01.ed4b3f972b9123616f06.jpg",
+    "static/media/mock2.png": "/surbhi-portfolio/static/media/mock2.b6f1449a359b241b477c.png",
+    "static/media/Branding_05.jpg": "/surbhi-portfolio/static/media/Branding_05.434906a1cb17e2b1a144.jpg",
+    "static/media/self.png": "/surbhi-portfolio/static/media/self.58b0ec0610ca444a9c69.png",
+    "index.html": "/surbhi-portfolio/index.html",
+    "main.d8465922.css.map": "/surbhi-portfolio/static/css/main.d8465922.css.map",
+    "main.87f795f3.js.map": "/surbhi-portfolio/static/js/main.87f795f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8465922.css",
+    "static/js/main.87f795f3.js"
+  ]
+}
