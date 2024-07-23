@@ -47,7 +47,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Freelancer Designer & Dveloper "
+            text: "Freelancer Designer & Developer "
         },
         {
             emoji: "📧",
