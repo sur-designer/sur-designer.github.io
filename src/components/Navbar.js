@@ -54,7 +54,7 @@ export default function Navbar({ darkMode, handleClick, active, setActive }) {
 
     return (
         <Box component={'nav'} width={'100%'} position={singlePage ? 'fixed' : 'relative'} className={darkMode? Style.dark : Style.light}>
-            <Box component={'ul'} display={'flex'} justifyContent={'center'} alignItems={'center'}
+            <Box component={'ul'} display={'flex'} paddingTop={'1rem'} justifyContent={'center'} alignItems={'center'}
                 gap={{ xs: '1rem', md: '6rem' }}
                  fontSize={'1rem'}>
                 {links.map((link, index) => (
