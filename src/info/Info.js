@@ -83,7 +83,7 @@ export const info = {
     bio:  "Hello! I'm Surbhi. I Initially started in 2017 as a dedicated Graphics & Web Designer and took tiny steps through serving my clients with their brand identity logos designs, web designs, social media marketing and others.",
     skills:
         {
-            proficientWith: ['UI/UX','Bootstrap', 'Wordpress','Javascript','Html5','CSS','PHP'],
+            proficientWith: ['UI/UX','Bootstrap', 'Wordpress','Javascript','Html5','CSS','PHP','Social media marketing','SEO'],
             exposedTo: ['react js', 'Jquery','github']
         }
     ,
