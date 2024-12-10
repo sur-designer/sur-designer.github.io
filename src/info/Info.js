@@ -124,6 +124,21 @@ export const info = {
             live: "https://skyangel.co.in/",
             image: mock3
         },
+         {
+            title: "DIGI Select",
+            live: "https://digiselect.in/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            image: mock1
+        },
+        {
+            title: "A&K Transformation Academy",
+            live: "https://aktransformationacademy.com/",
+            image: mock2
+        },
+        {
+            title: "Skyangel",
+            live: "https://skyangel.co.in/",
+            image: mock3
+        },
        
        
         
